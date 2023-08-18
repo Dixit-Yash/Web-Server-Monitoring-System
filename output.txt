@@ -1,0 +1,24 @@
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:38 - Web server is up and running
+________________________________________________________________________________________
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:39 - Web server is up and running
+________________________________________________________________________________________
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:41 - Web server is up and running
+________________________________________________________________________________________
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:43 - Web server is up and running
+________________________________________________________________________________________
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:46 - Web server is up and running
+________________________________________________________________________________________
+
+Webserver Monitored:  https://www.google.com
+Status: 2023-04-25 12:35:47 - Web server is up and running
+________________________________________________________________________________________
